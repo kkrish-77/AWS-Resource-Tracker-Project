@@ -5,6 +5,7 @@
 This mini project demonstrates the use of AWS services and the AWS CLI to manage and monitor AWS resources effectively.
 
 **Features**:
+
 ✅EC2 Management: Create, manage, and terminate EC2 instances.
 
 
@@ -13,7 +14,8 @@ This mini project demonstrates the use of AWS services and the AWS CLI to manage
 
 ✅Automation: Use Bash scripts to automate common tasks.
 
-**Prerequisites**
+**Prerequisites**:
+
 🚀AWS CLI installed and configured with the necessary permissions.
 
 🚀AWS account with access to EC2 services.
